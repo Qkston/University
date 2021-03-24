@@ -1,0 +1,13 @@
+D:\KS19\2 курс\ООП\Labs\Lab_1_add\Lab_1_add\bin\Debug\netcoreapp3.1\Lab_1_add.exe
+D:\KS19\2 курс\ООП\Labs\Lab_1_add\Lab_1_add\bin\Debug\netcoreapp3.1\Lab_1_add.deps.json
+D:\KS19\2 курс\ООП\Labs\Lab_1_add\Lab_1_add\bin\Debug\netcoreapp3.1\Lab_1_add.runtimeconfig.json
+D:\KS19\2 курс\ООП\Labs\Lab_1_add\Lab_1_add\bin\Debug\netcoreapp3.1\Lab_1_add.runtimeconfig.dev.json
+D:\KS19\2 курс\ООП\Labs\Lab_1_add\Lab_1_add\bin\Debug\netcoreapp3.1\Lab_1_add.dll
+D:\KS19\2 курс\ООП\Labs\Lab_1_add\Lab_1_add\bin\Debug\netcoreapp3.1\Lab_1_add.pdb
+D:\KS19\2 курс\ООП\Labs\Lab_1_add\Lab_1_add\obj\Debug\netcoreapp3.1\Lab_1_add.csprojAssemblyReference.cache
+D:\KS19\2 курс\ООП\Labs\Lab_1_add\Lab_1_add\obj\Debug\netcoreapp3.1\Lab_1_add.AssemblyInfoInputs.cache
+D:\KS19\2 курс\ООП\Labs\Lab_1_add\Lab_1_add\obj\Debug\netcoreapp3.1\Lab_1_add.AssemblyInfo.cs
+D:\KS19\2 курс\ООП\Labs\Lab_1_add\Lab_1_add\obj\Debug\netcoreapp3.1\Lab_1_add.csproj.CoreCompileInputs.cache
+D:\KS19\2 курс\ООП\Labs\Lab_1_add\Lab_1_add\obj\Debug\netcoreapp3.1\Lab_1_add.dll
+D:\KS19\2 курс\ООП\Labs\Lab_1_add\Lab_1_add\obj\Debug\netcoreapp3.1\Lab_1_add.pdb
+D:\KS19\2 курс\ООП\Labs\Lab_1_add\Lab_1_add\obj\Debug\netcoreapp3.1\Lab_1_add.genruntimeconfig.cache
