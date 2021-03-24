@@ -1,0 +1,14 @@
+C:\Users\1\Desktop\Zavd3\Zavd3\bin\Debug\Zavd3.exe.config
+C:\Users\1\Desktop\Zavd3\Zavd3\bin\Debug\Zavd3.exe
+C:\Users\1\Desktop\Zavd3\Zavd3\bin\Debug\Zavd3.pdb
+C:\Users\1\Desktop\Zavd3\Zavd3\obj\Debug\Zavd3.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Zavd3\Zavd3\obj\Debug\Zavd3.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Zavd3\Zavd3\obj\Debug\Zavd3.exe
+C:\Users\1\Desktop\Zavd3\Zavd3\obj\Debug\Zavd3.pdb
+D:\KS19\палм\2 семестр\LB\2\zavd3\Zavd3\bin\Debug\Zavd3.exe.config
+D:\KS19\палм\2 семестр\LB\2\zavd3\Zavd3\bin\Debug\Zavd3.exe
+D:\KS19\палм\2 семестр\LB\2\zavd3\Zavd3\bin\Debug\Zavd3.pdb
+D:\KS19\палм\2 семестр\LB\2\zavd3\Zavd3\obj\Debug\Zavd3.csprojAssemblyReference.cache
+D:\KS19\палм\2 семестр\LB\2\zavd3\Zavd3\obj\Debug\Zavd3.csproj.CoreCompileInputs.cache
+D:\KS19\палм\2 семестр\LB\2\zavd3\Zavd3\obj\Debug\Zavd3.exe
+D:\KS19\палм\2 семестр\LB\2\zavd3\Zavd3\obj\Debug\Zavd3.pdb

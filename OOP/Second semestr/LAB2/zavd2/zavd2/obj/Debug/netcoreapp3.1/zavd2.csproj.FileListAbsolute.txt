@@ -1,0 +1,11 @@
+C:\Users\1\Desktop\Lab2\zavd2\zavd2\zavd2\bin\Debug\netcoreapp3.1\zavd2.exe
+C:\Users\1\Desktop\Lab2\zavd2\zavd2\zavd2\bin\Debug\netcoreapp3.1\zavd2.deps.json
+C:\Users\1\Desktop\Lab2\zavd2\zavd2\zavd2\bin\Debug\netcoreapp3.1\zavd2.runtimeconfig.json
+C:\Users\1\Desktop\Lab2\zavd2\zavd2\zavd2\bin\Debug\netcoreapp3.1\zavd2.runtimeconfig.dev.json
+C:\Users\1\Desktop\Lab2\zavd2\zavd2\zavd2\bin\Debug\netcoreapp3.1\zavd2.dll
+C:\Users\1\Desktop\Lab2\zavd2\zavd2\zavd2\bin\Debug\netcoreapp3.1\zavd2.pdb
+C:\Users\1\Desktop\Lab2\zavd2\zavd2\zavd2\obj\Debug\netcoreapp3.1\zavd2.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Lab2\zavd2\zavd2\zavd2\obj\Debug\netcoreapp3.1\zavd2.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Lab2\zavd2\zavd2\zavd2\obj\Debug\netcoreapp3.1\zavd2.AssemblyInfo.cs
+C:\Users\1\Desktop\Lab2\zavd2\zavd2\zavd2\obj\Debug\netcoreapp3.1\zavd2.dll
+C:\Users\1\Desktop\Lab2\zavd2\zavd2\zavd2\obj\Debug\netcoreapp3.1\zavd2.pdb

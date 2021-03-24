@@ -1,0 +1,14 @@
+C:\Users\1\Desktop\zavd4\zavd4\zavd4\bin\Debug\zavd4.exe.config
+C:\Users\1\Desktop\zavd4\zavd4\zavd4\bin\Debug\zavd4.exe
+C:\Users\1\Desktop\zavd4\zavd4\zavd4\bin\Debug\zavd4.pdb
+C:\Users\1\Desktop\zavd4\zavd4\zavd4\obj\Debug\zavd4.csprojAssemblyReference.cache
+C:\Users\1\Desktop\zavd4\zavd4\zavd4\obj\Debug\zavd4.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\zavd4\zavd4\zavd4\obj\Debug\zavd4.exe
+C:\Users\1\Desktop\zavd4\zavd4\zavd4\obj\Debug\zavd4.pdb
+D:\KS19\палм\2 семестр\LB\2\zavd4\zavd4\zavd4\bin\Debug\zavd4.exe.config
+D:\KS19\палм\2 семестр\LB\2\zavd4\zavd4\zavd4\bin\Debug\zavd4.exe
+D:\KS19\палм\2 семестр\LB\2\zavd4\zavd4\zavd4\bin\Debug\zavd4.pdb
+D:\KS19\палм\2 семестр\LB\2\zavd4\zavd4\zavd4\obj\Debug\zavd4.csprojAssemblyReference.cache
+D:\KS19\палм\2 семестр\LB\2\zavd4\zavd4\zavd4\obj\Debug\zavd4.csproj.CoreCompileInputs.cache
+D:\KS19\палм\2 семестр\LB\2\zavd4\zavd4\zavd4\obj\Debug\zavd4.exe
+D:\KS19\палм\2 семестр\LB\2\zavd4\zavd4\zavd4\obj\Debug\zavd4.pdb

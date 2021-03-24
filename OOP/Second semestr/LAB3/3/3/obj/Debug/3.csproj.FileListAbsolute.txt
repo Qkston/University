@@ -1,0 +1,7 @@
+D:\KS19\палм\2 семестр\LB\3\3\3\obj\Debug\3.csprojAssemblyReference.cache
+D:\KS19\палм\2 семестр\LB\3\3\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+D:\KS19\палм\2 семестр\LB\3\3\3\bin\Debug\3.exe.config
+D:\KS19\палм\2 семестр\LB\3\3\3\bin\Debug\3.exe
+D:\KS19\палм\2 семестр\LB\3\3\3\bin\Debug\3.pdb
+D:\KS19\палм\2 семестр\LB\3\3\3\obj\Debug\3.exe
+D:\KS19\палм\2 семестр\LB\3\3\3\obj\Debug\3.pdb

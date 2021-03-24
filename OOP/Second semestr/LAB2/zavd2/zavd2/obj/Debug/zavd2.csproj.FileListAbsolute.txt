@@ -1,0 +1,9 @@
+C:\Users\1\Desktop\zavd2\zavd2\bin\Debug\zavd2.exe.config
+C:\Users\1\Desktop\zavd2\zavd2\bin\Debug\zavd2.exe
+C:\Users\1\Desktop\zavd2\zavd2\bin\Debug\zavd2.pdb
+C:\Users\1\Desktop\zavd2\zavd2\obj\Debug\zavd2.csprojAssemblyReference.cache
+C:\Users\1\Desktop\zavd2\zavd2\obj\Debug\zavd2.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\zavd2\zavd2\obj\Debug\zavd2.exe
+C:\Users\1\Desktop\zavd2\zavd2\obj\Debug\zavd2.pdb
+D:\KS19\палм\2 семестр\LB\2\zavd2\zavd2\obj\Debug\zavd2.exe
+D:\KS19\палм\2 семестр\LB\2\zavd2\zavd2\obj\Debug\zavd2.pdb

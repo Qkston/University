@@ -1,0 +1,14 @@
+D:\KS19\палм\2 семестр\prakt\1\1\obj\Debug\1.csprojAssemblyReference.cache
+D:\KS19\палм\2 семестр\prakt\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+D:\KS19\палм\2 семестр\prakt\1\1\bin\Debug\1.exe.config
+D:\KS19\палм\2 семестр\prakt\1\1\bin\Debug\1.exe
+D:\KS19\палм\2 семестр\prakt\1\1\bin\Debug\1.pdb
+D:\KS19\палм\2 семестр\prakt\1\1\obj\Debug\1.exe
+D:\KS19\палм\2 семестр\prakt\1\1\obj\Debug\1.pdb
+D:\KS19\палм\2 семестр\LB\1\1\obj\Debug\1.csprojAssemblyReference.cache
+D:\KS19\палм\2 семестр\LB\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+D:\KS19\палм\2 семестр\LB\1\1\obj\Debug\1.exe
+D:\KS19\палм\2 семестр\LB\1\1\obj\Debug\1.pdb
+D:\KS19\палм\2 семестр\LB\1\1\bin\Debug\1.exe.config
+D:\KS19\палм\2 семестр\LB\1\1\bin\Debug\1.exe
+D:\KS19\палм\2 семестр\LB\1\1\bin\Debug\1.pdb
