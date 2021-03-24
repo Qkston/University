@@ -1,0 +1,7 @@
+D:\KS19\ПАЛМ\2 семестр\labs\5\5\5\bin\Debug\5.exe.config
+D:\KS19\ПАЛМ\2 семестр\labs\5\5\5\bin\Debug\5.exe
+D:\KS19\ПАЛМ\2 семестр\labs\5\5\5\bin\Debug\5.pdb
+D:\KS19\ПАЛМ\2 семестр\labs\5\5\5\obj\Debug\5.csprojAssemblyReference.cache
+D:\KS19\ПАЛМ\2 семестр\labs\5\5\5\obj\Debug\5.csproj.CoreCompileInputs.cache
+D:\KS19\ПАЛМ\2 семестр\labs\5\5\5\obj\Debug\5.exe
+D:\KS19\ПАЛМ\2 семестр\labs\5\5\5\obj\Debug\5.pdb

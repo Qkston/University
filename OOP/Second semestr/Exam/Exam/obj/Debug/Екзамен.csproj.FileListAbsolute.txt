@@ -1,0 +1,7 @@
+D:\KS19\ПАЛМ\2 семестр\Екзамен\Екзамен\bin\Debug\Екзамен.exe.config
+D:\KS19\ПАЛМ\2 семестр\Екзамен\Екзамен\bin\Debug\Екзамен.exe
+D:\KS19\ПАЛМ\2 семестр\Екзамен\Екзамен\bin\Debug\Екзамен.pdb
+D:\KS19\ПАЛМ\2 семестр\Екзамен\Екзамен\obj\Debug\Екзамен.csprojAssemblyReference.cache
+D:\KS19\ПАЛМ\2 семестр\Екзамен\Екзамен\obj\Debug\Екзамен.csproj.CoreCompileInputs.cache
+D:\KS19\ПАЛМ\2 семестр\Екзамен\Екзамен\obj\Debug\Екзамен.exe
+D:\KS19\ПАЛМ\2 семестр\Екзамен\Екзамен\obj\Debug\Екзамен.pdb

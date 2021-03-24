@@ -1,0 +1,10 @@
+D:\KS19\ПАЛМ\2 семестр\LB\4\zavd2\zavd2\bin\Debug\zavd2.exe.config
+D:\KS19\ПАЛМ\2 семестр\LB\4\zavd2\zavd2\bin\Debug\zavd2.exe
+D:\KS19\ПАЛМ\2 семестр\LB\4\zavd2\zavd2\bin\Debug\zavd2.pdb
+D:\KS19\ПАЛМ\2 семестр\LB\4\zavd2\zavd2\obj\Debug\zavd2.csprojAssemblyReference.cache
+D:\KS19\ПАЛМ\2 семестр\LB\4\zavd2\zavd2\obj\Debug\zavd2.Zavd_2.resources
+D:\KS19\ПАЛМ\2 семестр\LB\4\zavd2\zavd2\obj\Debug\zavd2.Properties.Resources.resources
+D:\KS19\ПАЛМ\2 семестр\LB\4\zavd2\zavd2\obj\Debug\zavd2.csproj.GenerateResource.cache
+D:\KS19\ПАЛМ\2 семестр\LB\4\zavd2\zavd2\obj\Debug\zavd2.csproj.CoreCompileInputs.cache
+D:\KS19\ПАЛМ\2 семестр\LB\4\zavd2\zavd2\obj\Debug\zavd2.exe
+D:\KS19\ПАЛМ\2 семестр\LB\4\zavd2\zavd2\obj\Debug\zavd2.pdb
