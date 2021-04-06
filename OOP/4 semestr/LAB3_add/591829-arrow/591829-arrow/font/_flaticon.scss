@@ -1,0 +1,259 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 10/10/2017 09:39
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-001-zig-zag:before { content: "\f100"; }
+.flaticon-002-curved-arrow-13:before { content: "\f101"; }
+.flaticon-003-right-arrow-16:before { content: "\f102"; }
+.flaticon-004-return:before { content: "\f103"; }
+.flaticon-005-up-arrow-8:before { content: "\f104"; }
+.flaticon-006-up-arrow-7:before { content: "\f105"; }
+.flaticon-007-up-arrow-6:before { content: "\f106"; }
+.flaticon-008-up-arrow-5:before { content: "\f107"; }
+.flaticon-009-reload-3:before { content: "\f108"; }
+.flaticon-010-double-arrow-8:before { content: "\f109"; }
+.flaticon-011-curved-arrow-12:before { content: "\f10a"; }
+.flaticon-012-double-arrow-7:before { content: "\f10b"; }
+.flaticon-013-curved-arrow-11:before { content: "\f10c"; }
+.flaticon-014-curved-arrow-10:before { content: "\f10d"; }
+.flaticon-015-curved-arrow-9:before { content: "\f10e"; }
+.flaticon-016-curved-arrow-8:before { content: "\f10f"; }
+.flaticon-017-turn-1:before { content: "\f110"; }
+.flaticon-018-turn:before { content: "\f111"; }
+.flaticon-019-curved-arrow-7:before { content: "\f112"; }
+.flaticon-020-curved-arrow-6:before { content: "\f113"; }
+.flaticon-021-next-4:before { content: "\f114"; }
+.flaticon-022-right-arrow-15:before { content: "\f115"; }
+.flaticon-023-transfer:before { content: "\f116"; }
+.flaticon-024-triple-arrows:before { content: "\f117"; }
+.flaticon-025-right-arrow-14:before { content: "\f118"; }
+.flaticon-026-sync-1:before { content: "\f119"; }
+.flaticon-027-sync:before { content: "\f11a"; }
+.flaticon-028-spread:before { content: "\f11b"; }
+.flaticon-029-split-4:before { content: "\f11c"; }
+.flaticon-030-split-3:before { content: "\f11d"; }
+.flaticon-031-split-2:before { content: "\f11e"; }
+.flaticon-032-spinning-arrow:before { content: "\f11f"; }
+.flaticon-033-fast-forward-3:before { content: "\f120"; }
+.flaticon-034-double-arrow-6:before { content: "\f121"; }
+.flaticon-035-curved-arrow-5:before { content: "\f122"; }
+.flaticon-036-slide:before { content: "\f123"; }
+.flaticon-037-shuffle-1:before { content: "\f124"; }
+.flaticon-038-up-arrow-4:before { content: "\f125"; }
+.flaticon-039-diagonal-arrow:before { content: "\f126"; }
+.flaticon-040-down-arrow-4:before { content: "\f127"; }
+.flaticon-041-right-arrow-13:before { content: "\f128"; }
+.flaticon-042-rotate:before { content: "\f129"; }
+.flaticon-043-up-arrow-3:before { content: "\f12a"; }
+.flaticon-044-curved-arrow-4:before { content: "\f12b"; }
+.flaticon-045-retweet:before { content: "\f12c"; }
+.flaticon-046-renew:before { content: "\f12d"; }
+.flaticon-047-reload-2:before { content: "\f12e"; }
+.flaticon-048-redo:before { content: "\f12f"; }
+.flaticon-049-shuffle:before { content: "\f130"; }
+.flaticon-050-right-arrow-12:before { content: "\f131"; }
+.flaticon-051-up-arrow-2:before { content: "\f132"; }
+.flaticon-052-play-button:before { content: "\f133"; }
+.flaticon-053-move-1:before { content: "\f134"; }
+.flaticon-054-double-arrow-5:before { content: "\f135"; }
+.flaticon-055-split-1:before { content: "\f136"; }
+.flaticon-056-right-arrow-11:before { content: "\f137"; }
+.flaticon-057-next-3:before { content: "\f138"; }
+.flaticon-058-right-arrow-10:before { content: "\f139"; }
+.flaticon-059-right-arrow-9:before { content: "\f13a"; }
+.flaticon-060-right-arrow-8:before { content: "\f13b"; }
+.flaticon-061-right-arrow-7:before { content: "\f13c"; }
+.flaticon-062-import-1:before { content: "\f13d"; }
+.flaticon-063-minimize-1:before { content: "\f13e"; }
+.flaticon-064-minimize:before { content: "\f13f"; }
+.flaticon-065-export-1:before { content: "\f140"; }
+.flaticon-066-double-arrow-4:before { content: "\f141"; }
+.flaticon-067-down-arrow-3:before { content: "\f142"; }
+.flaticon-068-reload-1:before { content: "\f143"; }
+.flaticon-069-login:before { content: "\f144"; }
+.flaticon-070-increase:before { content: "\f145"; }
+.flaticon-071-import:before { content: "\f146"; }
+.flaticon-072-reload:before { content: "\f147"; }
+.flaticon-073-expand-1:before { content: "\f148"; }
+.flaticon-074-reply-1:before { content: "\f149"; }
+.flaticon-075-reply:before { content: "\f14a"; }
+.flaticon-076-fast-forward-2:before { content: "\f14b"; }
+.flaticon-077-export:before { content: "\f14c"; }
+.flaticon-078-move:before { content: "\f14d"; }
+.flaticon-079-exchange:before { content: "\f14e"; }
+.flaticon-080-right-arrow-6:before { content: "\f14f"; }
+.flaticon-081-expand:before { content: "\f150"; }
+.flaticon-082-down-arrow-2:before { content: "\f151"; }
+.flaticon-083-down-arrow-1:before { content: "\f152"; }
+.flaticon-084-down-arrow:before { content: "\f153"; }
+.flaticon-085-next-2:before { content: "\f154"; }
+.flaticon-086-next-1:before { content: "\f155"; }
+.flaticon-087-double-arrow-3:before { content: "\f156"; }
+.flaticon-088-reply-all:before { content: "\f157"; }
+.flaticon-089-fast-forward-1:before { content: "\f158"; }
+.flaticon-090-fast-forward:before { content: "\f159"; }
+.flaticon-091-up-arrow-1:before { content: "\f15a"; }
+.flaticon-092-decrease:before { content: "\f15b"; }
+.flaticon-093-right-arrow-5:before { content: "\f15c"; }
+.flaticon-094-up-arrow:before { content: "\f15d"; }
+.flaticon-095-curved-arrow-3:before { content: "\f15e"; }
+.flaticon-096-curved-arrow-2:before { content: "\f15f"; }
+.flaticon-097-curved-arrow-1:before { content: "\f160"; }
+.flaticon-098-compress:before { content: "\f161"; }
+.flaticon-099-split:before { content: "\f162"; }
+.flaticon-100-right-arrow-4:before { content: "\f163"; }
+.flaticon-101-right-arrow-3:before { content: "\f164"; }
+.flaticon-102-double-arrow-2:before { content: "\f165"; }
+.flaticon-103-right-arrow-2:before { content: "\f166"; }
+.flaticon-104-right-arrow-1:before { content: "\f167"; }
+.flaticon-105-right-arrow:before { content: "\f168"; }
+.flaticon-106-curved-arrow:before { content: "\f169"; }
+.flaticon-107-refresh:before { content: "\f16a"; }
+.flaticon-108-double-arrow-1:before { content: "\f16b"; }
+.flaticon-109-double-arrow:before { content: "\f16c"; }
+.flaticon-110-next:before { content: "\f16d"; }
+    
+    $font-Flaticon-001-zig-zag: "\f100";
+    $font-Flaticon-002-curved-arrow-13: "\f101";
+    $font-Flaticon-003-right-arrow-16: "\f102";
+    $font-Flaticon-004-return: "\f103";
+    $font-Flaticon-005-up-arrow-8: "\f104";
+    $font-Flaticon-006-up-arrow-7: "\f105";
+    $font-Flaticon-007-up-arrow-6: "\f106";
+    $font-Flaticon-008-up-arrow-5: "\f107";
+    $font-Flaticon-009-reload-3: "\f108";
+    $font-Flaticon-010-double-arrow-8: "\f109";
+    $font-Flaticon-011-curved-arrow-12: "\f10a";
+    $font-Flaticon-012-double-arrow-7: "\f10b";
+    $font-Flaticon-013-curved-arrow-11: "\f10c";
+    $font-Flaticon-014-curved-arrow-10: "\f10d";
+    $font-Flaticon-015-curved-arrow-9: "\f10e";
+    $font-Flaticon-016-curved-arrow-8: "\f10f";
+    $font-Flaticon-017-turn-1: "\f110";
+    $font-Flaticon-018-turn: "\f111";
+    $font-Flaticon-019-curved-arrow-7: "\f112";
+    $font-Flaticon-020-curved-arrow-6: "\f113";
+    $font-Flaticon-021-next-4: "\f114";
+    $font-Flaticon-022-right-arrow-15: "\f115";
+    $font-Flaticon-023-transfer: "\f116";
+    $font-Flaticon-024-triple-arrows: "\f117";
+    $font-Flaticon-025-right-arrow-14: "\f118";
+    $font-Flaticon-026-sync-1: "\f119";
+    $font-Flaticon-027-sync: "\f11a";
+    $font-Flaticon-028-spread: "\f11b";
+    $font-Flaticon-029-split-4: "\f11c";
+    $font-Flaticon-030-split-3: "\f11d";
+    $font-Flaticon-031-split-2: "\f11e";
+    $font-Flaticon-032-spinning-arrow: "\f11f";
+    $font-Flaticon-033-fast-forward-3: "\f120";
+    $font-Flaticon-034-double-arrow-6: "\f121";
+    $font-Flaticon-035-curved-arrow-5: "\f122";
+    $font-Flaticon-036-slide: "\f123";
+    $font-Flaticon-037-shuffle-1: "\f124";
+    $font-Flaticon-038-up-arrow-4: "\f125";
+    $font-Flaticon-039-diagonal-arrow: "\f126";
+    $font-Flaticon-040-down-arrow-4: "\f127";
+    $font-Flaticon-041-right-arrow-13: "\f128";
+    $font-Flaticon-042-rotate: "\f129";
+    $font-Flaticon-043-up-arrow-3: "\f12a";
+    $font-Flaticon-044-curved-arrow-4: "\f12b";
+    $font-Flaticon-045-retweet: "\f12c";
+    $font-Flaticon-046-renew: "\f12d";
+    $font-Flaticon-047-reload-2: "\f12e";
+    $font-Flaticon-048-redo: "\f12f";
+    $font-Flaticon-049-shuffle: "\f130";
+    $font-Flaticon-050-right-arrow-12: "\f131";
+    $font-Flaticon-051-up-arrow-2: "\f132";
+    $font-Flaticon-052-play-button: "\f133";
+    $font-Flaticon-053-move-1: "\f134";
+    $font-Flaticon-054-double-arrow-5: "\f135";
+    $font-Flaticon-055-split-1: "\f136";
+    $font-Flaticon-056-right-arrow-11: "\f137";
+    $font-Flaticon-057-next-3: "\f138";
+    $font-Flaticon-058-right-arrow-10: "\f139";
+    $font-Flaticon-059-right-arrow-9: "\f13a";
+    $font-Flaticon-060-right-arrow-8: "\f13b";
+    $font-Flaticon-061-right-arrow-7: "\f13c";
+    $font-Flaticon-062-import-1: "\f13d";
+    $font-Flaticon-063-minimize-1: "\f13e";
+    $font-Flaticon-064-minimize: "\f13f";
+    $font-Flaticon-065-export-1: "\f140";
+    $font-Flaticon-066-double-arrow-4: "\f141";
+    $font-Flaticon-067-down-arrow-3: "\f142";
+    $font-Flaticon-068-reload-1: "\f143";
+    $font-Flaticon-069-login: "\f144";
+    $font-Flaticon-070-increase: "\f145";
+    $font-Flaticon-071-import: "\f146";
+    $font-Flaticon-072-reload: "\f147";
+    $font-Flaticon-073-expand-1: "\f148";
+    $font-Flaticon-074-reply-1: "\f149";
+    $font-Flaticon-075-reply: "\f14a";
+    $font-Flaticon-076-fast-forward-2: "\f14b";
+    $font-Flaticon-077-export: "\f14c";
+    $font-Flaticon-078-move: "\f14d";
+    $font-Flaticon-079-exchange: "\f14e";
+    $font-Flaticon-080-right-arrow-6: "\f14f";
+    $font-Flaticon-081-expand: "\f150";
+    $font-Flaticon-082-down-arrow-2: "\f151";
+    $font-Flaticon-083-down-arrow-1: "\f152";
+    $font-Flaticon-084-down-arrow: "\f153";
+    $font-Flaticon-085-next-2: "\f154";
+    $font-Flaticon-086-next-1: "\f155";
+    $font-Flaticon-087-double-arrow-3: "\f156";
+    $font-Flaticon-088-reply-all: "\f157";
+    $font-Flaticon-089-fast-forward-1: "\f158";
+    $font-Flaticon-090-fast-forward: "\f159";
+    $font-Flaticon-091-up-arrow-1: "\f15a";
+    $font-Flaticon-092-decrease: "\f15b";
+    $font-Flaticon-093-right-arrow-5: "\f15c";
+    $font-Flaticon-094-up-arrow: "\f15d";
+    $font-Flaticon-095-curved-arrow-3: "\f15e";
+    $font-Flaticon-096-curved-arrow-2: "\f15f";
+    $font-Flaticon-097-curved-arrow-1: "\f160";
+    $font-Flaticon-098-compress: "\f161";
+    $font-Flaticon-099-split: "\f162";
+    $font-Flaticon-100-right-arrow-4: "\f163";
+    $font-Flaticon-101-right-arrow-3: "\f164";
+    $font-Flaticon-102-double-arrow-2: "\f165";
+    $font-Flaticon-103-right-arrow-2: "\f166";
+    $font-Flaticon-104-right-arrow-1: "\f167";
+    $font-Flaticon-105-right-arrow: "\f168";
+    $font-Flaticon-106-curved-arrow: "\f169";
+    $font-Flaticon-107-refresh: "\f16a";
+    $font-Flaticon-108-double-arrow-1: "\f16b";
+    $font-Flaticon-109-double-arrow: "\f16c";
+    $font-Flaticon-110-next: "\f16d";
