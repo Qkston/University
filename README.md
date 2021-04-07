@@ -1,4 +1,4 @@
-# Abot my university
+# About my university
 [University](https://cdu.edu.ua/)
 
 [FOTIUS](https://fotius.cdu.edu.ua/)
