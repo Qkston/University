@@ -1,0 +1,10 @@
+E:\KS19\University\Computing graphics\Лабораторна робота 2\bin\Debug\Лабораторна робота 2.exe.config
+E:\KS19\University\Computing graphics\Лабораторна робота 2\bin\Debug\Лабораторна робота 2.exe
+E:\KS19\University\Computing graphics\Лабораторна робота 2\bin\Debug\Лабораторна робота 2.pdb
+E:\KS19\University\Computing graphics\Лабораторна робота 2\obj\Debug\Лабораторна робота 2.csprojAssemblyReference.cache
+E:\KS19\University\Computing graphics\Лабораторна робота 2\obj\Debug\Лабораторна_робота_2.Form1.resources
+E:\KS19\University\Computing graphics\Лабораторна робота 2\obj\Debug\Лабораторна_робота_2.Properties.Resources.resources
+E:\KS19\University\Computing graphics\Лабораторна робота 2\obj\Debug\Лабораторна робота 2.csproj.GenerateResource.cache
+E:\KS19\University\Computing graphics\Лабораторна робота 2\obj\Debug\Лабораторна робота 2.csproj.CoreCompileInputs.cache
+E:\KS19\University\Computing graphics\Лабораторна робота 2\obj\Debug\Лабораторна робота 2.exe
+E:\KS19\University\Computing graphics\Лабораторна робота 2\obj\Debug\Лабораторна робота 2.pdb
