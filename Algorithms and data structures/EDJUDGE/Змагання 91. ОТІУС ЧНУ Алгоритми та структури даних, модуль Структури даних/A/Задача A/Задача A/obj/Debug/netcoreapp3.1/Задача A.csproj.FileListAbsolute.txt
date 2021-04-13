@@ -1,0 +1,26 @@
+E:\KS19\2 курс\Алгоритми та структури даних\EDJUDGE\91\A\Задача A\Задача A\bin\Debug\netcoreapp3.1\Задача A.exe
+E:\KS19\2 курс\Алгоритми та структури даних\EDJUDGE\91\A\Задача A\Задача A\bin\Debug\netcoreapp3.1\Задача A.deps.json
+E:\KS19\2 курс\Алгоритми та структури даних\EDJUDGE\91\A\Задача A\Задача A\bin\Debug\netcoreapp3.1\Задача A.runtimeconfig.json
+E:\KS19\2 курс\Алгоритми та структури даних\EDJUDGE\91\A\Задача A\Задача A\bin\Debug\netcoreapp3.1\Задача A.runtimeconfig.dev.json
+E:\KS19\2 курс\Алгоритми та структури даних\EDJUDGE\91\A\Задача A\Задача A\bin\Debug\netcoreapp3.1\Задача A.dll
+E:\KS19\2 курс\Алгоритми та структури даних\EDJUDGE\91\A\Задача A\Задача A\bin\Debug\netcoreapp3.1\Задача A.pdb
+E:\KS19\2 курс\Алгоритми та структури даних\EDJUDGE\91\A\Задача A\Задача A\obj\Debug\netcoreapp3.1\Задача A.csprojAssemblyReference.cache
+E:\KS19\2 курс\Алгоритми та структури даних\EDJUDGE\91\A\Задача A\Задача A\obj\Debug\netcoreapp3.1\Задача A.AssemblyInfoInputs.cache
+E:\KS19\2 курс\Алгоритми та структури даних\EDJUDGE\91\A\Задача A\Задача A\obj\Debug\netcoreapp3.1\Задача A.AssemblyInfo.cs
+E:\KS19\2 курс\Алгоритми та структури даних\EDJUDGE\91\A\Задача A\Задача A\obj\Debug\netcoreapp3.1\Задача A.csproj.CoreCompileInputs.cache
+E:\KS19\2 курс\Алгоритми та структури даних\EDJUDGE\91\A\Задача A\Задача A\obj\Debug\netcoreapp3.1\Задача A.dll
+E:\KS19\2 курс\Алгоритми та структури даних\EDJUDGE\91\A\Задача A\Задача A\obj\Debug\netcoreapp3.1\Задача A.pdb
+E:\KS19\2 курс\Алгоритми та структури даних\EDJUDGE\91\A\Задача A\Задача A\obj\Debug\netcoreapp3.1\Задача A.genruntimeconfig.cache
+E:\KS19\2 курс\1 семестр\Алгоритми та структури даних\EDJUDGE\91\A\Задача A\Задача A\bin\Debug\netcoreapp3.1\Задача A.exe
+E:\KS19\2 курс\1 семестр\Алгоритми та структури даних\EDJUDGE\91\A\Задача A\Задача A\bin\Debug\netcoreapp3.1\Задача A.deps.json
+E:\KS19\2 курс\1 семестр\Алгоритми та структури даних\EDJUDGE\91\A\Задача A\Задача A\bin\Debug\netcoreapp3.1\Задача A.runtimeconfig.json
+E:\KS19\2 курс\1 семестр\Алгоритми та структури даних\EDJUDGE\91\A\Задача A\Задача A\bin\Debug\netcoreapp3.1\Задача A.runtimeconfig.dev.json
+E:\KS19\2 курс\1 семестр\Алгоритми та структури даних\EDJUDGE\91\A\Задача A\Задача A\bin\Debug\netcoreapp3.1\Задача A.dll
+E:\KS19\2 курс\1 семестр\Алгоритми та структури даних\EDJUDGE\91\A\Задача A\Задача A\bin\Debug\netcoreapp3.1\Задача A.pdb
+E:\KS19\2 курс\1 семестр\Алгоритми та структури даних\EDJUDGE\91\A\Задача A\Задача A\obj\Debug\netcoreapp3.1\Задача A.csprojAssemblyReference.cache
+E:\KS19\2 курс\1 семестр\Алгоритми та структури даних\EDJUDGE\91\A\Задача A\Задача A\obj\Debug\netcoreapp3.1\Задача A.AssemblyInfoInputs.cache
+E:\KS19\2 курс\1 семестр\Алгоритми та структури даних\EDJUDGE\91\A\Задача A\Задача A\obj\Debug\netcoreapp3.1\Задача A.AssemblyInfo.cs
+E:\KS19\2 курс\1 семестр\Алгоритми та структури даних\EDJUDGE\91\A\Задача A\Задача A\obj\Debug\netcoreapp3.1\Задача A.csproj.CoreCompileInputs.cache
+E:\KS19\2 курс\1 семестр\Алгоритми та структури даних\EDJUDGE\91\A\Задача A\Задача A\obj\Debug\netcoreapp3.1\Задача A.dll
+E:\KS19\2 курс\1 семестр\Алгоритми та структури даних\EDJUDGE\91\A\Задача A\Задача A\obj\Debug\netcoreapp3.1\Задача A.pdb
+E:\KS19\2 курс\1 семестр\Алгоритми та структури даних\EDJUDGE\91\A\Задача A\Задача A\obj\Debug\netcoreapp3.1\Задача A.genruntimeconfig.cache

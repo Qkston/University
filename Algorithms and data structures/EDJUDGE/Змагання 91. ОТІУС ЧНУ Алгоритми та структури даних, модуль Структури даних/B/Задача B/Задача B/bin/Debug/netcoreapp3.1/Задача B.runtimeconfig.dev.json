@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\qksto\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\qksto\\.nuget\\packages"
+    ]
+  }
+}
