@@ -29,6 +29,7 @@ namespace Лабораторна_робота_4
         public Form1()
         {
             InitializeComponent();
+
             DoubleBuffered = true;
 
             SetStyle(ControlStyles.AllPaintingInWmPaint | ControlStyles.OptimizedDoubleBuffer | ControlStyles.UserPaint, true);

@@ -9,3 +9,14 @@ E:\KS19\лабы\лаба 4\Лаб4\obj\Debug\Лабораторна робот�
 E:\KS19\лабы\лаба 4\Лаб4\obj\Debug\Лабораторна робота 4.csproj.CoreCompileInputs.cache
 E:\KS19\лабы\лаба 4\Лаб4\obj\Debug\Лаб4.exe
 E:\KS19\лабы\лаба 4\Лаб4\obj\Debug\Лаб4.pdb
+E:\KS19\University\Computing graphics\Лабораторна робота 4\Лаб4\bin\Debug\Лаб4.exe.config
+E:\KS19\University\Computing graphics\Лабораторна робота 4\Лаб4\bin\Debug\Лаб4.exe
+E:\KS19\University\Computing graphics\Лабораторна робота 4\Лаб4\bin\Debug\Лаб4.pdb
+E:\KS19\University\Computing graphics\Лабораторна робота 4\Лаб4\obj\Debug\Лабораторна робота 4.csprojAssemblyReference.cache
+E:\KS19\University\Computing graphics\Лабораторна робота 4\Лаб4\obj\Debug\Лабораторна_робота_4.Form1.resources
+E:\KS19\University\Computing graphics\Лабораторна робота 4\Лаб4\obj\Debug\Лабораторна_робота_4.Form2.resources
+E:\KS19\University\Computing graphics\Лабораторна робота 4\Лаб4\obj\Debug\Лаб4.Properties.Resources.resources
+E:\KS19\University\Computing graphics\Лабораторна робота 4\Лаб4\obj\Debug\Лабораторна робота 4.csproj.GenerateResource.cache
+E:\KS19\University\Computing graphics\Лабораторна робота 4\Лаб4\obj\Debug\Лабораторна робота 4.csproj.CoreCompileInputs.cache
+E:\KS19\University\Computing graphics\Лабораторна робота 4\Лаб4\obj\Debug\Лаб4.exe
+E:\KS19\University\Computing graphics\Лабораторна робота 4\Лаб4\obj\Debug\Лаб4.pdb
