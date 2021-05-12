@@ -6,14 +6,13 @@
         xmlns:local="clr-namespace:LAB4"
         xmlns:sys="clr-namespace:System;assembly=mscorlib"
         mc:Ignorable="d"
-        Title="MainWindow" Height="600" Width="800" WindowStyle="ThreeDBorderWindow">
+        Title="Головна сторінка" Height="600" Width="800" WindowStyle="ToolWindow" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
 
-    <Grid x:Name="MainGrid" Background="#FFA4A4A4">
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="175*"/>
-            <ColumnDefinition Width="23*"/>
-        </Grid.ColumnDefinitions>
-        <ComboBox Margin="662,510,10,0" x:Name="Category" ItemsSource="{Binding Source={local:Category {x:Type local:TypeValue}}}" Grid.ColumnSpan="2" Height="22" VerticalAlignment="Top"/>
-        <ListBox Margin="10,10,10,89" IsSynchronizedWithCurrentItem="False" Grid.ColumnSpan="2"/>
+    <Grid x:Name="MainGrid">
+        <Grid.Background>
+            <ImageBrush ImageSource="Black Background Hole - 2560x1600 by Freeman.jpg"/>
+        </Grid.Background>
+        <Button Content="Каталог автомобілів" Margin="260,218,246,0" Height="50" VerticalAlignment="Top" Click="Button_Click" FontWeight="Bold"/>
+        <Button Content="Автомобілі в прокаті" Margin="260,298,246,0" Height="50" VerticalAlignment="Top" Click="Button_Click_1" FontWeight="Bold"/>
     </Grid>
 </Window>

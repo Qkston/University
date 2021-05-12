@@ -1,0 +1,19 @@
+﻿<Window x:Class="LAB4.CarsInRental"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LAB4"
+        mc:Ignorable="d"
+        Title="Автомобілі в прокаті" Height="600" Width="800" WindowStartupLocation="CenterScreen" WindowStyle="ToolWindow" ResizeMode="NoResize">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Black Background Hole - 2560x1600 by Freeman.jpg"/>
+        </Grid.Background>
+        <ListBox HorizontalAlignment="Left" Height="515" VerticalAlignment="Top" Width="792"/>
+        <ComboBox x:Name="Category" ItemsSource="{Binding Source={local:Category {x:Type local:TypeValue}}}" Margin="662,10,10,0" Height="23" VerticalAlignment="Top"/>
+        <Button x:Name="BackButton" Content="Назад" HorizontalAlignment="Left" VerticalAlignment="Top" Width="160" Margin="416,520,0,0" Height="30" Click="BackButton_Click_1" FontWeight="Bold"/>
+        <Button x:Name="AddNewCarButton" Content="Додати автомобіль в прокат" HorizontalAlignment="Left" VerticalAlignment="Top" Width="160" Margin="251,520,0,0" Height="30" FontSize="11" FontWeight="Bold"/>
+
+    </Grid>
+</Window>

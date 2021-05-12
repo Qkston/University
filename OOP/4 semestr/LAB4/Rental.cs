@@ -19,9 +19,9 @@ namespace LAB4
             this.nameOfCompany = nameOfCompany;
         }
 
-        public void Add(List<PerformanceCounter> completedOrders)
+        public void Add(Vehicle vehicle)
         {
-
+            completedOrders.Add(vehicle);
         }
 
         public string ToShortString(int i)

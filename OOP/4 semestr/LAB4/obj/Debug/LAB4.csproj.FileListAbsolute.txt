@@ -14,3 +14,9 @@ E:\KS19\University\OOP\4 semestr\LAB4\obj\Debug\LAB4.csproj.CoreCompileInputs.ca
 E:\KS19\University\OOP\4 semestr\LAB4\obj\Debug\LAB4.exe
 E:\KS19\University\OOP\4 semestr\LAB4\obj\Debug\LAB4.pdb
 E:\KS19\University\OOP\4 semestr\LAB4\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\KS19\University\OOP\4 semestr\LAB4\obj\Debug\AvailableCars.g.cs
+E:\KS19\University\OOP\4 semestr\LAB4\obj\Debug\AvailableCars.baml
+E:\KS19\University\OOP\4 semestr\LAB4\obj\Debug\CarsInRental.g.cs
+E:\KS19\University\OOP\4 semestr\LAB4\obj\Debug\CarsInRental.baml
+E:\KS19\University\OOP\4 semestr\LAB4\obj\Debug\AddCar.g.cs
+E:\KS19\University\OOP\4 semestr\LAB4\obj\Debug\AddCar.baml

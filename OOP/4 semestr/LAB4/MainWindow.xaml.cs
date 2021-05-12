@@ -11,5 +11,19 @@ namespace LAB4
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            AvailableCars availableCarsWindow = new AvailableCars();
+            availableCarsWindow.Show();
+            this.Close();
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            CarsInRental carsInRentalWindow = new CarsInRental();
+            carsInRentalWindow.Show();
+            this.Close();
+        }
     }
 }

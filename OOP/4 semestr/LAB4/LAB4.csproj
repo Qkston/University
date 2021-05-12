@@ -55,9 +55,30 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="AddCar.xaml.cs">
+      <DependentUpon>AddCar.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AvailableCars.xaml.cs">
+      <DependentUpon>AvailableCars.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CarsInRental.xaml.cs">
+      <DependentUpon>CarsInRental.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Category.cs" />
     <Compile Include="Rental.cs" />
     <Compile Include="Vehicle.cs" />
+    <Page Include="AddCar.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AvailableCars.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CarsInRental.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -97,6 +118,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Black Background Hole - 2560x1600 by Freeman.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
