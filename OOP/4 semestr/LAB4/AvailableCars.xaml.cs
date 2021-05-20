@@ -13,10 +13,9 @@ namespace LAB4
         public AvailableCars()
         {
             InitializeComponent();
-            allCar = new List<Car>();
         }
 
-        List<Car> allCar;
+        List<Car> allCar = new List<Car>();
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
@@ -92,6 +91,18 @@ namespace LAB4
             {
                 MessageBox.Show("Ваші дані не збережені");
             }
+        }
+
+        private void DeleteCar_Button_Click(object sender, RoutedEventArgs e)
+        {
+            int selectedIndex = listBox1.SelectedIndex;
+            if (selectedIndex < 0 || selectedIndex >= allCar.Count)
+            {
+                MessageBox.Show("Ви не обрали жодного автомобіля");
+                return;
+            }
+            allCar.RemoveAt(selectedIndex);
+            listBox1.Items.RemoveAt(selectedIndex);
         }
     }
 }

@@ -14,7 +14,8 @@
         <ComboBox x:Name="Category" ItemsSource="{Binding Source={local:Category {x:Type local:TypeValue}}}" Margin="662,10,10,0" Height="23" VerticalAlignment="Top"/>
         <Button Content="Додати автомобіль" HorizontalAlignment="Left" VerticalAlignment="Top" Width="146" Margin="10,525,0,0" Height="30" Click="Button_Click_1" FontWeight="Bold"/>
         <Button Content="Назад" HorizontalAlignment="Left" VerticalAlignment="Top" Width="130" Margin="652,525,0,0" Height="30" Click="Button_Click" FontWeight="Bold"/>
-        <Button x:Name="ChangeButton" Content="Змінити дані автомобіля" HorizontalAlignment="Left" VerticalAlignment="Top" Width="147" Margin="161,525,0,0" Height="30" Click="ChangeButton_Click" FontWeight="Bold"/>
+        <Button x:Name="ChangeButton" Content="Змінити дані автомобіля" HorizontalAlignment="Left" VerticalAlignment="Top" Width="168" Margin="161,525,0,0" Height="30" Click="ChangeButton_Click" FontWeight="Bold"/>
+        <Button x:Name="DeleteCar_Button" Content="Видалити автомобіль" HorizontalAlignment="Left" VerticalAlignment="Top" Width="146" Margin="334,525,0,0" Height="30" Click="DeleteCar_Button_Click" FontWeight="Bold"/>
 
     </Grid>
 </Window>
