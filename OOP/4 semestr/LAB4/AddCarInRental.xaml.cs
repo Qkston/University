@@ -1,32 +1,50 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Shapes;
 
 namespace LAB4
 {
-    /// <summary>
-    /// Логика взаимодействия для AddCarInRental.xaml
-    /// </summary>
     public partial class AddCarInRental : Window
     {
-        public AddCarInRental()
+        public Vehicle TheVehicle;
+        List<Vehicle> vehicles;
+        public AddCarInRental(Vehicle vehicle)
         {
             InitializeComponent();
+            
+            TheVehicle = vehicle;
+
+            if (TheVehicle != null && TheVehicle.Car != null)
+            {
+                NumberOfCar_TextBox.Text = TheVehicle.NumberOfCar.ToString();
+                Price_TextBox.Text = TheVehicle.Price.ToString();
+                RentalPeriod_TextBox.Text = TheVehicle.RentalPeriod.ToString();
+                Car_ComboBox.SelectedIndex = Car_ComboBox.Items.IndexOf(vehicle.Category.ToString());
+            }
         }
 
         private void SaveButton_Click(object sender, RoutedEventArgs e)
         {
+            int selectedIndex = Car_ComboBox.SelectedIndex;
+            try
+            {
+                TheVehicle.NumberOfCar = Convert.ToChar(NumberOfCar_TextBox.Text);
+                TheVehicle.Price = int.Parse(Price_TextBox.Text);
+                TheVehicle.RentalPeriod = int.Parse(RentalPeriod_TextBox.Text);
+                TheVehicle.Category = vehicles[selectedIndex];
 
+                this.DialogResult = true;
+
+            }
+            catch (Exception)
+            {
+                MessageBox.Show("Не вірно введені дані!");
+            }
+        }
+
+        private void CancelButton_Click(object sender, RoutedEventArgs e)
+        {
+            this.DialogResult = false;
         }
     }
 }

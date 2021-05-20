@@ -1,6 +1,4 @@
 ﻿using System;
-using System.ComponentModel;
-using System.Windows.Markup;
 
 namespace LAB4
 {
@@ -8,17 +6,15 @@ namespace LAB4
     {
         Passenger, Sport, Cabriolet, Jeep
     }
-    public class Category : MarkupExtension
+    public class Category
     {
         public Type EnumType { get; private set; }
 
-        public Category(Type enumType)
+        public Category(Type enumType) { EnumType = enumType; }
+
+        public static implicit operator Category(Vehicle v)
         {
-            EnumType = enumType;
-        }
-        public override object ProvideValue(IServiceProvider serviceProvider)
-        {
-            return Enum.GetValues(EnumType);
+            throw new NotImplementedException();
         }
     }
 }

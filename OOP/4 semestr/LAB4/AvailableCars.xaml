@@ -11,7 +11,6 @@
             <ImageBrush ImageSource="Black Background Hole - 2560x1600 by Freeman.jpg"/>
         </Grid.Background>
         <ListBox x:Name="listBox1" HorizontalAlignment="Left" Height="515" VerticalAlignment="Top" Width="792" SelectionChanged="listBox1_SelectionChanged" FontSize="18" FontWeight="Bold"/>
-        <ComboBox x:Name="Category" ItemsSource="{Binding Source={local:Category {x:Type local:TypeValue}}}" Margin="662,10,10,0" Height="23" VerticalAlignment="Top"/>
         <Button Content="Додати автомобіль" HorizontalAlignment="Left" VerticalAlignment="Top" Width="146" Margin="10,525,0,0" Height="30" Click="Button_Click_1" FontWeight="Bold"/>
         <Button Content="Назад" HorizontalAlignment="Left" VerticalAlignment="Top" Width="130" Margin="652,525,0,0" Height="30" Click="Button_Click" FontWeight="Bold"/>
         <Button x:Name="ChangeButton" Content="Змінити дані автомобіля" HorizontalAlignment="Left" VerticalAlignment="Top" Width="168" Margin="161,525,0,0" Height="30" Click="ChangeButton_Click" FontWeight="Bold"/>

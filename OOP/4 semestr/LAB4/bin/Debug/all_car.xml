@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfCar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Car>
-    <Company>Porshe</Company>
-    <Model>Cayman</Model>
-    <Year>2005</Year>
-    <Price>500</Price>
-  </Car>
-  <Car>
+    <category>Sport</category>
+    <Category>Sport</Category>
     <Company>Audi</Company>
     <Model>TT</Model>
-    <Year>1998</Year>
-    <Price>200</Price>
+    <Year>2019</Year>
+    <Price>150</Price>
   </Car>
   <Car>
-    <Company>BMW</Company>
-    <Model>Z4</Model>
-    <Year>2009</Year>
-    <Price>250</Price>
+    <category>Cabriolet</category>
+    <Category>Cabriolet</Category>
+    <Company>Porshe</Company>
+    <Model>Cayman</Model>
+    <Year>2018</Year>
+    <Price>300</Price>
   </Car>
 </ArrayOfCar>

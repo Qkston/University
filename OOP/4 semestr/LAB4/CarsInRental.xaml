@@ -10,10 +10,11 @@
         <Grid.Background>
             <ImageBrush ImageSource="Black Background Hole - 2560x1600 by Freeman.jpg"/>
         </Grid.Background>
-        <ListBox HorizontalAlignment="Left" Height="515" VerticalAlignment="Top" Width="792"/>
-        <ComboBox x:Name="Category" ItemsSource="{Binding Source={local:Category {x:Type local:TypeValue}}}" Margin="662,10,10,0" Height="23" VerticalAlignment="Top"/>
-        <Button x:Name="BackButton" Content="Назад" HorizontalAlignment="Left" VerticalAlignment="Top" Width="160" Margin="416,520,0,0" Height="30" Click="BackButton_Click_1" FontWeight="Bold"/>
-        <Button x:Name="AddNewCarButton" Content="Додати автомобіль в прокат" HorizontalAlignment="Left" VerticalAlignment="Top" Width="160" Margin="251,520,0,0" Height="30" FontSize="11" FontWeight="Bold"/>
+        <ListBox x:Name="listBox1" HorizontalAlignment="Left" Height="515" VerticalAlignment="Top" Width="792"/>
+        <Button x:Name="BackButton" Content="Назад" HorizontalAlignment="Left" VerticalAlignment="Top" Width="160" Margin="617,527,0,0" Height="30" Click="BackButton_Click_1" FontWeight="Bold"/>
+        <Button x:Name="AddNewCarButton" Content="Додати автомобіль в прокат" HorizontalAlignment="Left" VerticalAlignment="Top" Width="170" Margin="12,527,0,0" Height="30" FontSize="11" FontWeight="Bold" Click="AddNewCarButton_Click"/>
+        <Button x:Name="ChangeButton" Content="Змінити дані автомобіля" HorizontalAlignment="Left" VerticalAlignment="Top" Width="168" Margin="187,527,0,0" Height="30" FontWeight="Bold" Click="ChangeButton_Click"/>
+        <Button x:Name="DeleteCar_Button" Content="Видалити автомобіль" HorizontalAlignment="Left" VerticalAlignment="Top" Width="146" Margin="362,527,0,0" Height="30" FontWeight="Bold" Click="DeleteCar_Button_Click"/>
 
     </Grid>
 </Window>

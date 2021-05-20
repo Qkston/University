@@ -10,6 +10,7 @@
         <ImageBrush ImageSource="Black Background Hole - 2560x1600 by Freeman.jpg"/>
     </Window.Background>
     <Grid>
+        <ComboBox x:Name="Category_ComboBox" Margin="102,153,97,0" Height="23" VerticalAlignment="Top" SelectedIndex="0"/>
         <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="36,35,0,0" TextAlignment="Center"/>
         <TextBox x:Name="textBox2" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="36,92,0,0" TextAlignment="Center"/>
         <TextBox x:Name="textBox3" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="162,35,0,0" TextAlignment="Center"/>
@@ -21,10 +22,6 @@
         <Label Content="Модель автомобіля" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="36,66,0,0" Width="120" Foreground="White"/>
         <Label Content="Вартість" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="190,66,0,0" Foreground="White"/>
         <Label Content="Вид транспорту" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="113,127,0,0" Foreground="White"/>
-        <RadioButton x:Name="radioButton1" Content="Легковий сімейний" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,161,0,0" Foreground="White" FontSize="9"/>
-        <RadioButton x:Name="radioButton2" Content="Спортивний" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="114,161,0,0" Foreground="White" FontSize="9"/>
-        <RadioButton x:Name="radioButton3" Content="Кабріолет" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="189,161,0,0" Foreground="White" FontSize="9"/>
-        <RadioButton x:Name="radioButton4" Content="Джип" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="254,161,0,0" Foreground="White" FontSize="9"/>
 
     </Grid>
 </Window>

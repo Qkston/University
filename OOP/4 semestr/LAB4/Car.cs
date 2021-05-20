@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 
 namespace LAB4
 {
@@ -6,6 +7,13 @@ namespace LAB4
     {
         private string company, model;
         private int year, price;
+        public TypeValue category;
+
+        public TypeValue Category
+        {
+            get => category;
+            set => category = value;
+        }
 
         public string Company
         {
@@ -22,7 +30,15 @@ namespace LAB4
         public int Year
         {
             get => year;
-            set => year = value;
+            set
+            {
+                if (value >= 1886)
+                {
+                    year = value;
+                }
+
+                else throw new ArgumentException();
+            }
         }
 
         public int Price
@@ -33,7 +49,7 @@ namespace LAB4
 
         public override string ToString()
         {
-            return $"Компанія: {company}.\nМодель: {model}.\nРік розробки: {year} р.\nВартість: {price} $/год.";
+            return $"Компанія: {company}.\nМодель: {model}.\nРік розробки: {year} р.\nВартість: {price} $/добу.\nКатегорія: {category}";
         }
     }
 }

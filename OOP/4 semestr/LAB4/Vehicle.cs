@@ -3,7 +3,7 @@ using System.Data;
 
 namespace LAB4
 {
-    class Vehicle
+    public class Vehicle
     {
         private Category category;
         private Car car;
@@ -11,14 +11,40 @@ namespace LAB4
         private int price, rentalPeriod;
         private char numberOfCar;
 
-        public Vehicle(Category category, Car car, DateTime startHireTime, int price, int rentalPeriod, char numberOfCar)
+        public Category Category
         {
-            this.category = category;
-            this.car = car;
-            this.startHireTime = startHireTime;
-            this.price = price;
-            this.rentalPeriod = rentalPeriod;
-            this.numberOfCar = numberOfCar;
+            get => category;
+            set => category = value;
+        }
+
+        public Car Car
+        {
+            get => car;
+            set => car = value;
+        }
+
+        public DateTime StartHireTime
+        {
+            get => startHireTime;
+            set => startHireTime = value;
+        }
+
+        public int Price
+        {
+            get => price;
+            set => price = value;
+        }
+
+        public int RentalPeriod
+        {
+            get => rentalPeriod;
+            set => rentalPeriod = value;
+        }
+
+        public char NumberOfCar
+        {
+            get => numberOfCar;
+            set => numberOfCar = value;
         }
 
         public int GetRentalPeriod()
@@ -29,6 +55,11 @@ namespace LAB4
         public int GetPrice()
         {
             return price;
+        }
+
+        public override string ToString()
+        {
+            return $"Автомобіль: {car}.\nДата початку прокату: {startHireTime}.\nВартість прокату: {price} $.\nТривалість прокату: {rentalPeriod} доба(и).\nНомер автомобіля: {numberOfCar}";
         }
     }
 }
