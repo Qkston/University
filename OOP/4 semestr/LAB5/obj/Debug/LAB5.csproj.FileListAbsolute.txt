@@ -1,0 +1,10 @@
+E:\KS19\University\OOP\4 semestr\LAB5\bin\Debug\LAB5.exe.config
+E:\KS19\University\OOP\4 semestr\LAB5\bin\Debug\LAB5.exe
+E:\KS19\University\OOP\4 semestr\LAB5\bin\Debug\LAB5.pdb
+E:\KS19\University\OOP\4 semestr\LAB5\obj\Debug\LAB5.csprojAssemblyReference.cache
+E:\KS19\University\OOP\4 semestr\LAB5\obj\Debug\LAB5.Form1.resources
+E:\KS19\University\OOP\4 semestr\LAB5\obj\Debug\LAB5.Properties.Resources.resources
+E:\KS19\University\OOP\4 semestr\LAB5\obj\Debug\LAB5.csproj.GenerateResource.cache
+E:\KS19\University\OOP\4 semestr\LAB5\obj\Debug\LAB5.csproj.CoreCompileInputs.cache
+E:\KS19\University\OOP\4 semestr\LAB5\obj\Debug\LAB5.exe
+E:\KS19\University\OOP\4 semestr\LAB5\obj\Debug\LAB5.pdb
