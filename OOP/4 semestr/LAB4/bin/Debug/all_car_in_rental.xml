@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfVehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Vehicle>
+    <Category>Passenger</Category>
+    <StartHireTime>2021-06-08T00:00:00+03:00</StartHireTime>
+    <Price>0</Price>
+    <RentalPeriod>2</RentalPeriod>
+    <NumberOfCar>1</NumberOfCar>
+  </Vehicle>
+</ArrayOfVehicle>

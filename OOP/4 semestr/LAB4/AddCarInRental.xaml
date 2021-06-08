@@ -5,15 +5,15 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:LAB4"
         mc:Ignorable="d"
-        Title="Додати автомобіль" Height="261.333" Width="320" WindowStyle="ToolWindow" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+        Title="Додати автомобіль" Height="261.333" Width="320" WindowStyle="ToolWindow" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Loaded="Window_Loaded">
     <Window.Background>
         <ImageBrush ImageSource="Black Background Hole - 2560x1600 by Freeman.jpg"/>
     </Window.Background>
     <Grid>
         <ComboBox x:Name="Car_ComboBox" Margin="166,14,33,0" Height="23" VerticalAlignment="Top" SelectedIndex="0"/>
-        <TextBox x:Name="RentalPeriod_TextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="113" Margin="168,118,0,0" TextAlignment="Center"/>
+        <TextBox x:Name="NumberOfCar_TextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="113" Margin="168,118,0,0" TextAlignment="Center"/>
         <TextBox x:Name="Price_TextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="113" Margin="168,156,0,0" TextAlignment="Center" IsEnabled="False" RenderTransformOrigin="0.478,0.507"/>
-        <TextBox x:Name="NumberOfCar_TextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="82" Margin="199,84,0,0" TextAlignment="Center"/>
+        <TextBox x:Name="RentalPeriod_TextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="82" Margin="199,84,0,0" TextAlignment="Center"/>
         <Button x:Name="SaveButton" Content="Зберегти" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="83,197,0,0" FontWeight="Bold" Click="SaveButton_Click"/>
         <Button x:Name="CancelButton" Content="Скасувати" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="164,197,0,0" FontWeight="Bold" Click="CancelButton_Click"/>
         <Label Content="Дата початку прокату" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="25,48,0,0" Foreground="White" Width="131"/>

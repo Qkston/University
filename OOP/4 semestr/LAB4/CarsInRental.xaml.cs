@@ -1,5 +1,9 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.IO;
 using System.Windows;
+using System.Xml.Serialization;
 
 namespace LAB4
 {
@@ -63,6 +67,36 @@ namespace LAB4
             }
             allVehicles.RemoveAt(selectedIndex);
             listBox1.Items.RemoveAt(selectedIndex);
+        }
+
+        private void Window_Loaded(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                XmlSerializer deSerializer = new XmlSerializer(typeof(List<Vehicle>));
+                using (TextReader reader = new StreamReader("all_car_in_rental.xml"))
+                {
+                    allVehicles = (List<Vehicle>)deSerializer.Deserialize(reader);
+                }
+                foreach (Vehicle vehicle in allVehicles)
+                {
+                    listBox1.Items.Add(vehicle);
+                }
+            }
+            catch (IOException)
+            {
+                MessageBox.Show("Не вдалося знайти файл із раніше збереженими даними");
+                allVehicles = new List<Vehicle>();
+            }
+        }
+
+        private void Window_Closing(object sender, CancelEventArgs e)
+        {
+            XmlSerializer serializer = new XmlSerializer(typeof(List<Vehicle>));
+            using (TextWriter writer = new StreamWriter("all_car_in_rental.xml"))
+            {
+                serializer.Serialize(writer, allVehicles);
+            }
         }
     }
 }

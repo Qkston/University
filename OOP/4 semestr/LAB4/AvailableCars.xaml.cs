@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.IO;
 using System.Windows;
+using System.Windows.Controls;
 using System.Xml.Serialization;
 
 namespace LAB4
@@ -58,7 +60,7 @@ namespace LAB4
             }
         }
 
-        private void Window_Closing(object sender, System.ComponentModel.CancelEventArgs e)
+        private void Window_Closing(object sender, CancelEventArgs e)
         {
             XmlSerializer serializer = new XmlSerializer(typeof(List<Car>));
             using (TextWriter writer = new StreamWriter("all_car.xml"))
@@ -67,7 +69,7 @@ namespace LAB4
             }
         }
 
-        private void listBox1_SelectionChanged(object sender, System.Windows.Controls.SelectionChangedEventArgs e)
+        private void listBox1_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             ChangeButton.IsEnabled = true;
         }

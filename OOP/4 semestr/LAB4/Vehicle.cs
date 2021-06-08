@@ -5,13 +5,12 @@ namespace LAB4
 {
     public class Vehicle
     {
-        private Category category;
+        private TypeValue category;
         private Car car;
         private DateTime startHireTime;
-        private int price, rentalPeriod;
-        private char numberOfCar;
+        private int price, rentalPeriod, numberOfCar;
 
-        public Category Category
+        public TypeValue Category
         {
             get => category;
             set => category = value;
@@ -41,7 +40,7 @@ namespace LAB4
             set => rentalPeriod = value;
         }
 
-        public char NumberOfCar
+        public int NumberOfCar
         {
             get => numberOfCar;
             set => numberOfCar = value;
@@ -59,7 +58,7 @@ namespace LAB4
 
         public override string ToString()
         {
-            return $"Автомобіль: {car}.\nДата початку прокату: {startHireTime}.\nВартість прокату: {price} $.\nТривалість прокату: {rentalPeriod} доба(и).\nНомер автомобіля: {numberOfCar}";
+            return $"Автомобіль: {car.Model}.\nДата початку прокату: {startHireTime}.\nВартість прокату: {price} $.\nТривалість прокату: {rentalPeriod} доба(и).\nНомер автомобіля: {numberOfCar}";
         }
     }
 }

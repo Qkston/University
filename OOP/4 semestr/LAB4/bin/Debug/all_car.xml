@@ -16,4 +16,20 @@
     <Year>2018</Year>
     <Price>300</Price>
   </Car>
+  <Car>
+    <category>Passenger</category>
+    <Category>Passenger</Category>
+    <Company>Toyota</Company>
+    <Model>Camry</Model>
+    <Year>2020</Year>
+    <Price>200</Price>
+  </Car>
+  <Car>
+    <category>Sport</category>
+    <Category>Sport</Category>
+    <Company>BMW</Company>
+    <Model>E39</Model>
+    <Year>2001</Year>
+    <Price>50</Price>
+  </Car>
 </ArrayOfCar>
