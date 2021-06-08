@@ -16,14 +16,13 @@ namespace LAB4
             InitializeComponent();
 
             theVehicle = vehicle;
-            
+
             if (theVehicle != null && theVehicle.Car != null)
             {
                 StartDate_DatePicker.Text = theVehicle.StartHireTime.ToShortDateString();
                 NumberOfCar_TextBox.Text = theVehicle.NumberOfCar.ToString();
-                Price_TextBox.Text = theVehicle.Price.ToString();
+                Price_TextBox.Text = theVehicle.Car.Price.ToString();
                 RentalPeriod_TextBox.Text = theVehicle.RentalPeriod.ToString();
-                Car_ComboBox.SelectedIndex = Car_ComboBox.Items.IndexOf(vehicle.Category.ToString());
             }
         }
 
@@ -31,9 +30,11 @@ namespace LAB4
         {
             try
             {
-                theVehicle.StartHireTime = StartDate_DatePicker.DisplayDate;
+                theVehicle.StartHireTime = StartDate_DatePicker.SelectedDate.Value;
                 theVehicle.NumberOfCar = Int32.Parse(NumberOfCar_TextBox.Text);
                 theVehicle.RentalPeriod = Int32.Parse(RentalPeriod_TextBox.Text);
+                //theVehicle.Car;
+                theVehicle.Price = Convert.ToInt32(RentalPeriod_TextBox.Text) * Convert.ToInt32(Price_TextBox.Text);
 
                 this.DialogResult = true;
             }
@@ -59,10 +60,11 @@ namespace LAB4
                 }
                 foreach (Car cars in allCars)
                 {
-                    Car_ComboBox.Items.Add(cars.Model);
-                    Price_TextBox.Text = $"{cars.Price.ToString()} $/добу";
+                    Car_ComboBox.Items.Add($"{cars.Company} {cars.Model}");
+                    //Price_TextBox.Text = $"{cars.Price.ToString()}";
                 }
             }
+
             catch (IOException)
             {
                 MessageBox.Show("Не вдалося знайти файл із автомобілями");

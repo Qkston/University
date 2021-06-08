@@ -49,7 +49,7 @@ namespace LAB4
 
         public override string ToString()
         {
-            return $"Компанія: {company}.\nМодель: {model}.\nРік розробки: {year} р.\nВартість: {price} $/добу.\nКатегорія: {category}";
+            return $"Компанія: {company}.\nМодель: {model}.\nРік розробки: {year} р.\nВартість: {price} $.\nКатегорія: {category}";
         }
     }
 }

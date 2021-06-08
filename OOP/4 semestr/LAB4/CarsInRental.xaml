@@ -13,7 +13,7 @@
         <ListBox x:Name="listBox1" HorizontalAlignment="Left" Height="515" VerticalAlignment="Top" Width="792" FontSize="18" FontWeight="Bold"/>
         <Button x:Name="BackButton" Content="Назад" HorizontalAlignment="Left" VerticalAlignment="Top" Width="160" Margin="617,527,0,0" Height="30" Click="BackButton_Click_1" FontWeight="Bold"/>
         <Button x:Name="AddNewCarButton" Content="Додати автомобіль в прокат" HorizontalAlignment="Left" VerticalAlignment="Top" Width="170" Margin="12,527,0,0" Height="30" FontSize="11" FontWeight="Bold" Click="AddNewCarButton_Click"/>
-        <Button x:Name="ChangeButton" Content="Змінити дані автомобіля" HorizontalAlignment="Left" VerticalAlignment="Top" Width="168" Margin="187,527,0,0" Height="30" FontWeight="Bold" Click="ChangeButton_Click"/>
+        <Button x:Name="MoreDetailsButton" Content="Детальна інформація" HorizontalAlignment="Left" VerticalAlignment="Top" Width="168" Margin="187,527,0,0" Height="30" FontWeight="Bold" Click="MoreDetailButton_Click"/>
         <Button x:Name="DeleteCar_Button" Content="Видалити автомобіль" HorizontalAlignment="Left" VerticalAlignment="Top" Width="146" Margin="362,527,0,0" Height="30" FontWeight="Bold" Click="DeleteCar_Button_Click"/>
 
     </Grid>

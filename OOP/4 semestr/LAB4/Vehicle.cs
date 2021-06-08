@@ -58,7 +58,7 @@ namespace LAB4
 
         public override string ToString()
         {
-            return $"Автомобіль: {car.Model}.\nДата початку прокату: {startHireTime}.\nВартість прокату: {price} $.\nТривалість прокату: {rentalPeriod} доба(и).\nНомер автомобіля: {numberOfCar}";
+            return $"Дата початку прокату: {startHireTime.ToShortDateString()}.\nВартість прокату: {price} $.\nТривалість прокату: {rentalPeriod} діб.\nНомер автомобіля: {numberOfCar}";
         }
     }
 }

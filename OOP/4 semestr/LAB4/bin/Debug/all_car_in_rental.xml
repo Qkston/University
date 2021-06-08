@@ -2,9 +2,23 @@
 <ArrayOfVehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Vehicle>
     <Category>Passenger</Category>
-    <StartHireTime>2021-06-08T00:00:00+03:00</StartHireTime>
-    <Price>0</Price>
-    <RentalPeriod>2</RentalPeriod>
+    <StartHireTime>2021-06-18T00:00:00</StartHireTime>
+    <Price>1000</Price>
+    <RentalPeriod>10</RentalPeriod>
     <NumberOfCar>1</NumberOfCar>
+  </Vehicle>
+  <Vehicle>
+    <Category>Passenger</Category>
+    <StartHireTime>2021-06-11T00:00:00</StartHireTime>
+    <Price>525</Price>
+    <RentalPeriod>7</RentalPeriod>
+    <NumberOfCar>2</NumberOfCar>
+  </Vehicle>
+  <Vehicle>
+    <Category>Passenger</Category>
+    <StartHireTime>2021-06-14T00:00:00</StartHireTime>
+    <Price>1500</Price>
+    <RentalPeriod>30</RentalPeriod>
+    <NumberOfCar>3</NumberOfCar>
   </Vehicle>
 </ArrayOfVehicle>

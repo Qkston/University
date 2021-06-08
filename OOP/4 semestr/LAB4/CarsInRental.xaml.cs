@@ -12,9 +12,17 @@ namespace LAB4
         public CarsInRental()
         {
             InitializeComponent();
+
+            rentals.ForEach(rental =>
+            {
+                listBox1.Items.Add(rental.ToShortString(idx));
+            });
         }
 
         List<Vehicle> allVehicles = new List<Vehicle>();
+        List<Rental> rentals = new List<Rental>();
+
+        private int idx;
 
         private void BackButton_Click_1(object sender, RoutedEventArgs e)
         {
@@ -38,7 +46,21 @@ namespace LAB4
             }
         }
 
-        private void ChangeButton_Click(object sender, RoutedEventArgs e)
+        private void MoreDetailButton_Click(object sender, RoutedEventArgs e)
+        {
+            idx = listBox1.SelectedIndex;
+            if (idx < 0 || idx >= allVehicles.Count)
+            {
+                MessageBox.Show("Ви не обрали жодного автомобіля");
+                return;
+            }
+            else
+            {
+                MessageBox.Show("ShortInfo");
+            }
+        }
+
+        private void DeleteCar_Button_Click(object sender, RoutedEventArgs e)
         {
             int idx = listBox1.SelectedIndex;
             if (idx < 0 || idx >= allVehicles.Count)
@@ -46,27 +68,8 @@ namespace LAB4
                 MessageBox.Show("Ви не обрали жодного автомобіля");
                 return;
             }
-            AddCarInRental addCarInRentalWindow = new AddCarInRental(allVehicles[listBox1.SelectedIndex]);
-            if (addCarInRentalWindow.ShowDialog() == true)
-            {
-                listBox1.Items[idx] = allVehicles[listBox1.SelectedIndex].ToString();
-            }
-            else
-            {
-                MessageBox.Show("Ваші дані не збережені");
-            }
-        }
-
-        private void DeleteCar_Button_Click(object sender, RoutedEventArgs e)
-        {
-            int selectedIndex = listBox1.SelectedIndex;
-            if (selectedIndex < 0 || selectedIndex >= allVehicles.Count)
-            {
-                MessageBox.Show("Ви не обрали жодного автомобіля");
-                return;
-            }
-            allVehicles.RemoveAt(selectedIndex);
-            listBox1.Items.RemoveAt(selectedIndex);
+            allVehicles.RemoveAt(idx);
+            listBox1.Items.RemoveAt(idx);
         }
 
         private void Window_Loaded(object sender, RoutedEventArgs e)

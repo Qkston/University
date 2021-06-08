@@ -1,35 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfCar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Car>
-    <category>Sport</category>
-    <Category>Sport</Category>
-    <Company>Audi</Company>
-    <Model>TT</Model>
-    <Year>2019</Year>
-    <Price>150</Price>
-  </Car>
-  <Car>
     <category>Cabriolet</category>
     <Category>Cabriolet</Category>
     <Company>Porshe</Company>
     <Model>Cayman</Model>
     <Year>2018</Year>
-    <Price>300</Price>
-  </Car>
-  <Car>
-    <category>Passenger</category>
-    <Category>Passenger</Category>
-    <Company>Toyota</Company>
-    <Model>Camry</Model>
-    <Year>2020</Year>
-    <Price>200</Price>
+    <Price>300000</Price>
   </Car>
   <Car>
     <category>Sport</category>
     <Category>Sport</Category>
-    <Company>BMW</Company>
-    <Model>E39</Model>
-    <Year>2001</Year>
-    <Price>50</Price>
+    <Company>Toyota</Company>
+    <Model>Camry</Model>
+    <Year>2020</Year>
+    <Price>20000</Price>
+  </Car>
+  <Car>
+    <category>Passenger</category>
+    <Category>Passenger</Category>
+    <Company>Audi</Company>
+    <Model>TT</Model>
+    <Year>2012</Year>
+    <Price>15000</Price>
   </Car>
 </ArrayOfCar>

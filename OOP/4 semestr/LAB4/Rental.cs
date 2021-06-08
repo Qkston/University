@@ -4,7 +4,7 @@ using System.Windows.Annotations;
 
 namespace LAB4
 {
-    class Rental
+    public class Rental
     {
         private string nameOfCompany;
         List<Vehicle> completedOrders = new List<Vehicle>();
@@ -26,7 +26,7 @@ namespace LAB4
 
         public string ToShortString(int i)
         {
-            return $"{this.nameOfCompany} {completedOrders[i].GetRentalPeriod()} {completedOrders[i].GetPrice()}";
+            return $"Назва компанії: {this.nameOfCompany}.\nПеріод: {completedOrders[i].GetRentalPeriod()} діб.\nЦіна: {completedOrders[i].Price*completedOrders[i].RentalPeriod} $";
         }
 
     }
