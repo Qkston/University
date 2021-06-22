@@ -16,9 +16,9 @@
   </Vehicle>
   <Vehicle>
     <Category>Passenger</Category>
-    <StartHireTime>2021-06-14T00:00:00</StartHireTime>
-    <Price>1500</Price>
-    <RentalPeriod>30</RentalPeriod>
-    <NumberOfCar>3</NumberOfCar>
+    <StartHireTime>2021-06-03T00:00:00</StartHireTime>
+    <Price>1000</Price>
+    <RentalPeriod>10</RentalPeriod>
+    <NumberOfCar>4</NumberOfCar>
   </Vehicle>
 </ArrayOfVehicle>

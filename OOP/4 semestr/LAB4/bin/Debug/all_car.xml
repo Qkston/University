@@ -17,11 +17,11 @@
     <Price>20000</Price>
   </Car>
   <Car>
-    <category>Passenger</category>
-    <Category>Passenger</Category>
+    <category>Sport</category>
+    <Category>Sport</Category>
     <Company>Audi</Company>
-    <Model>TT</Model>
-    <Year>2012</Year>
-    <Price>15000</Price>
+    <Model>QRST8</Model>
+    <Year>2020</Year>
+    <Price>25000</Price>
   </Car>
 </ArrayOfCar>
